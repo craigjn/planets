@@ -3,3 +3,5 @@ mars
 two moons may be a problem for wolfman
 
 mummie likes the lack of humidity 
+
+This is a line added to WolfMan's copy.
